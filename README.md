@@ -6,7 +6,7 @@ Built with Neo4j and the Graph Data Science (GDS) library, the system combines t
 
 ---
 
-[![View Notebook](https://img.shields.io/badge/View%20Notebook-nbviewer-orange)](https://nbviewer.org/github/arnoldmuzarurwi/hybrid-movie-recommender-neo4j/blob/master/hybrid_recommender.html)
+[![View Notebook](https://img.shields.io/badge/View%20Notebook-nbviewer-orange)](https://nbviewer.org/github/arnoldmuzarurwi/hybrid-movie-recommender-neo4j/blob/master/notebook/hybrid_recommender.ipynb)
 
 ![Project Blueprint](architecture/project_blueprint.png)
 
